@@ -1,20 +1,14 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sonu%20Shriram%20Vishwakarma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Data%20Science%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18" />
+<!-- Reliable Typing SVG Header -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6E57F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sonu+Shriram+Vishwakarma;Full+Stack+Developer+%F0%9F%9A%80;Data+Science+%26+ML+Enthusiast+%F0%9F%A4%96;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+</h1>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Data+Science+%26+ML+Explorer+%F0%9F%93%8A;Open+to+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Profile Views & Followers -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=sonusv7719&label=Profile+Views&color=6E57F7&style=for-the-badge" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/sonusv7719?label=Followers&style=for-the-badge&color=6E57F7" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/followers/sonusv7719?label=Followers&style=for-the-badge&color=6E57F7&labelColor=1a1a2e" alt="Followers"/>
 </p>
 
 </div>
@@ -108,17 +102,23 @@ class SonuVishwakarma:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonusv7719&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonusv7719&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonusv7719&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonusv7719&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonusv7719&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+
+  <img src="https://streak-stats.demolab.com/?user=sonusv7719&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonusv7719&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="Contribution Graph" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonusv7719&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+
 </div>
 
 ---
@@ -133,8 +133,9 @@ class SonuVishwakarma:
 
 ## 🚀 What I'm Up To
 
+| Area | Details |
+|------|---------|
 | 🔭 Working On | Data Science & Machine Learning Projects |
-|---|---|
 | 🌱 Learning | Advanced ML, Deep Learning & Neural Networks |
 | 👨‍💻 Portfolio | [sonuvishwakarma.netlify.app](https://sonuvishwakarma.netlify.app/) |
 | 💬 Ask Me About | React, Java, C/C++, Python, Data Science |
@@ -156,10 +157,5 @@ class SonuVishwakarma:
 <div align="center">
 
 ### 💡 *"Code is not just syntax — it's the bridge between imagination and reality."*
-
-<br/>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
