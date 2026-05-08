@@ -2,7 +2,7 @@
 
 <!-- Reliable Typing SVG Header -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6E57F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sonu+Shriram+Vishwakarma;Full+Stack+Developer+%F0%9F%9A%80;Data+Science+%26+ML+Enthusiast+%F0%9F%A4%96;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6E57F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sonu+Shriram+Vishwakarma;Full+Stack+Developer+%F0%9F%9A%80;Data+Science+%26+ML+Enthusiast+%F0%9F%A4%96;Automation+Developer+%F0%9F%A4%96;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 </h1>
 
 <p>
@@ -20,7 +20,7 @@
 ```python
 class SonuVishwakarma:
     name       = "Sonu Shriram Vishwakarma"
-    role       = "Developer | Data Science & ML Enthusiast"
+    role       = "Full Stack | Data Science & ML | Automation Developer"
     location   = "India 🇮🇳"
     portfolio  = "https://sonuvishwakarma.netlify.app/"
     email      = "sonu.s.v.771984@gmail.com"
@@ -43,7 +43,7 @@ class SonuVishwakarma:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=6E57F7)](https://sonuvishwakarma.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sonusv)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/techtalk_sonu)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([https://www.instagram.com/itsonuv](https://www.instagram.com/itsonuv))
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@techtalkwithsonu)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sonu_s_v_771984)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/user4748tu)
@@ -86,6 +86,12 @@ class SonuVishwakarma:
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+### ⚡ Automation
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -151,6 +157,7 @@ class SonuVishwakarma:
 - 📱 **React Native Mobile Apps**
 - 📊 **Data Analytics & Visualization Dashboards**
 - 🔬 **Research-Driven Open Source Projects**
+- - ⚡ **Automation Scripts & Workflow Tools**
 
 ---
 
